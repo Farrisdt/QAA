@@ -11,8 +11,8 @@ Python:
 
   bashforpython.sh - Bash to run Data_Exploration.py in bgmp_py311 environment. Files are hard-coded in.
 
-*  For all bash scripts the files are hard-coded in. They will need to be intereacted with internally to be used on new data. *
 Pure bash:
+*  For all bash scripts the files are hard-coded in. They will need to be intereacted with internally to be used on new data. *
 
   alignmentSTAR.sh - Script for STAR, runMode alignReads. Does not read in all files at once, I changed the files and reran for ease of use.
 
